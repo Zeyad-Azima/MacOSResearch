@@ -1,4 +1,4 @@
-# Product and Version Information
+# CVE-2025-25364: Product and Version Information
 
 Product: Speedify VPN
 
